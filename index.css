@@ -1,0 +1,54 @@
+.a{
+   font-size: xx-large;
+   text-align: center;
+   color: red;
+   margin-top: 2in;
+   text-align: center;
+}
+.a b
+{
+   
+   color:rgb(70, 67, 67);
+}
+
+.b{
+   
+   margin: 50px;
+   border: 2px solid black;
+   height: 40px;
+   width: 100px;
+   text-align: center;
+   padding: 5px;
+   padding-top: 15px ;
+   background-color: darkgray;
+   margin-bottom: 20px;
+}
+.c{
+   margin-left: 10px;
+   margin: 50px;
+   border: 2px solid black;
+   height: 40px;
+   width: 100px;
+   text-align:center;
+   padding: 5px;
+    padding-top: 15px ;
+    background-color: darkgray;
+    margin-top: 20px;
+}
+
+.d{
+    text-align: center;
+    font-size:xx-large;
+    color: darkcyan;
+    margin: 10px;
+    
+
+}
+
+.e{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 0px;
+    
+    
+}
